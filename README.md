@@ -4,4 +4,4 @@
 | Name        | Github Username |
 | ----------- | --------------- |
 | Abhi Jain   | devabhixda |
-|Ananya Tomar | HexClan25 |  
+| HexCaln25 | HexClan25 |  
